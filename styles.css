@@ -12,8 +12,8 @@
    --header-bg: #01a982; /* Navy-ish header background */
    --text-color: #01a982; /* Dark grayish-blue text */
    --accent-color: #01a982; /* blue accent color */
-   --button-bg: #d3d3d3;
-   --button-hover-bg: #d3d3d3;
+   --button-bg: #000082;
+   --button-hover-bg: #000082;
 }
 
 /* Dark-mode Colours */
